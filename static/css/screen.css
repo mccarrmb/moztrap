@@ -4201,7 +4201,7 @@ h2 + .select-env-link:active, .selectenvhead + .select-env-link:active {
   width: 100%;
 }
 
-.user-form .username-field, .user-form .email-address-field {
+.user-form .username-field, .user-form .email-address-field, .user-form .roles-field {
   display: inline;
   float: left;
   width: 74.737%;
